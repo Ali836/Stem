@@ -1,4 +1,7 @@
 # Stem
-<html>
+<index.html>
 <head>
-<title>
+<title>Creating Website using Coding</title>
+
+<link href="style.css" type="text/css" rel="stylesheet">
+
