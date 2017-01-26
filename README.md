@@ -1,4 +1,7 @@
-<doctype.html>
+<link> href="/style.css" type="text/css"
+rel="stylesheet"
+<!DOCTYPE html>
+<html>
 <link>
 <head>
 <title>Creating Website using Coding</title>
