@@ -4,9 +4,15 @@ rel="stylesheet"
 <html>
 <link>
 <head>
+  <style>
+    *{
+      font-family: 'Comic Sans MS',
+        'cursive', sans-serif:
+    }
 <title>Creating Website using Coding</title>
 
 <link href="style.css" type="text/css" rel="stylesheet">
+  </style>
 </head>
 <body>
 <h1>What is coding</h1>
