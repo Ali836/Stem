@@ -4,8 +4,7 @@
 <head>
   <style> 
     *{
-      font-family: 'Comic Sans MS',
-        'cursive', sans-serif:
+      font-family: 'Comic Sans MS', 'cursive', sans-serif:
     }
 <title>Creating Website using Coding</title>
 
@@ -22,4 +21,4 @@
   <li>A code is a way of changing information into something else.</li>
   <li>Sometimes a code is done in way of keeping a message secret.</li>
 <h2>Why try coding</h2>
-<p> Why you should try coding? Many people that want to learn coding is for the pay of coding jobs that is about $34,000 and $57,000 a year and between $16-29 per hour based on location, experience and certification. Often people learn coding as a hobby coding helps with pro</p>
+<p> Why you should try coding? Many people that want to learn coding is for the pay of coding jobs that is about $34,000 and $57,000 a year and between $16-29 per hour based on location, experience and certification. Often people learn coding as a hobby coding helps with problem solving in real life.</p>
