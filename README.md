@@ -1,10 +1,8 @@
-<link> href="/style.css" type="text/css"
-rel="stylesheet"
 <!DOCTYPE html>
 <html>
 <link>
 <head>
-  <style>
+  <style> 
     *{
       font-family: 'Comic Sans MS',
         'cursive', sans-serif:
@@ -18,7 +16,7 @@ rel="stylesheet"
 <h1>What is coding</h1>
 <p> 
 <ul>
-<p>Aacode is a type of words, numbers or some other symbols used to represent a text of the purpose of classifiction and/or identification</p>
+<p>A code is a type of words, numbers or some other symbols used to represent a text of the purpose of classifiction and/or identification</p>
   <li>Coding is a process where you assign a code to a purpose of classification or identification.</li>
   <li>Coding has many languages.Ex. (python) print:”Hello world”;</li>
   <li>A code is a way of changing information into something else.</li>
