@@ -7,7 +7,7 @@
 <link href="style.css" type="text/css" rel="stylesheet">
  
 </head>
-<body>
+<body background="https://lh5.googleusercontent.com/proxy/IdUO4ZuWcoe-oqleIT2FE_WuvXNPFCjKRgGbEZKh0w9xjvuI0FLL9Fqg3OkblIljiK7YP0B2ABnRsble_n0TcbQlWPqrVcAp3g0JtfL81UtBWw9g4lIGnpuCpvlOiZ1Q8v1VMHwW=w1366-h631">
 <img src="https://lh5.googleusercontent.com/proxy/IdUO4ZuWcoe-oqleIT2FE_WuvXNPFCjKRgGbEZKh0w9xjvuI0FLL9Fqg3OkblIljiK7YP0B2ABnRsble_n0TcbQlWPqrVcAp3g0JtfL81UtBWw9g4lIGnpuCpvlOiZ1Q8v1VMHwW=w1366-h631" height="500" width="1000">
 <h1>What is coding</h1>
 <p> 
@@ -20,7 +20,7 @@
 <h2>Why try coding</h2>
 <p> Why you should try coding? Many people that want to learn coding is for the pay of coding jobs that is about $34,000 and $57,000 a year and between $16-29 per hour based on location, experience and certification. Often people learn coding as a hobby coding helps with problem solving in real life. People don’t have to be a wiz at math and science to be able to code that is why alot of people try coding. Many coding games and apps today engage the minds and curiosity of people and help teach basic coding skills, while they are helping grow creativity of  minds of those who enjoying writing, drawing, and reading</p>
 <h3>How much do we know?</h3>
-<p>I did a series of test with 20 
+<p>I did a series of test (10 tests) with 20 questions each test 
 <table cellspacing="0" cellpadding="0" border="1">
 <tr>
   <td width="100" align="center">1</td>
@@ -47,4 +47,3 @@
   <td width="100" align="center">55%</td>
   </tr>
 </table>
-
