@@ -20,4 +20,4 @@
 <h2>Why try coding</h2>
 <p> Why you should try coding? Many people that want to learn coding is for the pay of coding jobs that is about $34,000 and $57,000 a year and between $16-29 per hour based on location, experience and certification. Often people learn coding as a hobby coding helps with problem solving in real life. People don’t have to be a wiz at math and science to be able to code that is why alot of people try coding. Many coding games and apps today engage the minds and curiosity of people and help teach basic coding skills, while they are helping grow creativity of  minds of those who enjoying writing, drawing, and reading</p>
 <h3>How much do we know?</h3>
-<p>
+<p>I did a series of test with 
