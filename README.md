@@ -44,6 +44,7 @@
   <td width="75" align="center">60%</td>
   <td width="75" align="center">60%</td>
   <td width="75" align="center">70%</td>
-  <td width="75" align="center">55%</td></tr>
+  <td width="75" align="center">55%</td>
+  </tr>
 </table>
 
