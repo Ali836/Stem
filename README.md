@@ -8,11 +8,7 @@
  
 </head>
 <body>
-<style>
-body {
-       background image: url("https://lh5.googleusercontent.com/proxy/IdUO4ZuWcoe-oqleIT2FE_WuvXNPFCjKRgGbEZKh0w9xjvuI0FLL9Fqg3OkblIljiK7YP0B2ABnRsble_n0TcbQlWPqrVcAp3g0JtfL81UtBWw9g4lIGnpuCpvlOiZ1Q8v1VMHwW=w1366-h631");
-       }
-       </style>
+<img src="https://lh5.googleusercontent.com/proxy/IdUO4ZuWcoe-oqleIT2FE_WuvXNPFCjKRgGbEZKh0w9xjvuI0FLL9Fqg3OkblIljiK7YP0B2ABnRsble_n0TcbQlWPqrVcAp3g0JtfL81UtBWw9g4lIGnpuCpvlOiZ1Q8v1VMHwW=w1366-h631" height="228" width="296">
 <h1>What is coding</h1>
 <p> 
 <ul>
