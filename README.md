@@ -20,8 +20,10 @@
 <p>We wanted to learn how to code and we found a website called <a href="https://www.codecademy.com/ ">Codecadamy</a> where it goes by lesson and units. It is divided (the page) into 3 parts. To the right it has the example of the website. In the center.</p>
 
 <img src="http://www.lifelivedhere.com/wp-content/uploads/2015/04/Site-Example-1024x843.png" height="500" width="1000">
+<h4>where did we learn coding?</h4>
+<p>We wanted to learn how to code and we found a website called <a href="https://www.codecademy.com/ ">Codecadamy</a> . Codecademy's lesson's go </p>
 
-<h4>How much do we know?</h4> 
+<h5>How much do we know?</h5> 
 <p>  I did a series of test (10 tests) with 20 questions each test in website called <a href="http://www.pskills.org/ ">Programming Skills </a> and the result are in the table below, the average of our knowledge is 59% correct. Even if we know the basics of coding we have a lot to learn. 
 
 <table cellspacing="0" cellpadding="0" border="1">
