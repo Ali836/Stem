@@ -25,7 +25,37 @@
 
 <h4>How much do we know?</h4> 
 <p>  I did a series of test (10 tests) with 20 questions each test in website called <a href="http://www.pskills.org/ ">Programming Skills </a> and the result are in the table below, the average of our knowledge is 59% correct. Even if we know the basics of coding we have a lot to learn. 
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {'packages':['corechart']});
+      google.charts.setOnLoadCallback(drawChart);
 
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable([
+          ['Number of test', 'percent'],
+          ['1',  50%],
+          ['2',  60%],
+          ['3',  55%],
+          ['4',  55%],
+          ['5',  55%],
+          ['6',  70%],
+          ['7',  60%],
+          ['8',  60%],
+          ['9',  70%],
+          ['10',  55%],
+        ]);
+
+        var options = {
+          title: 'How much do we know',
+          curveType: 'function',
+          legend: { position: 'bottom' }
+        };
+
+        var chart = new google.visualization.LineChart(document.getElementById('curve_chart'));
+
+        chart.draw(data, options);
+      }
+    </script>
 <table cellspacing="0" cellpadding="0" border="1">
 <tr>
   <td width="100" align="center">1</td>
