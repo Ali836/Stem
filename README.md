@@ -16,9 +16,13 @@
   <li>Sometimes a code is done in way of keeping a message secret.</li>
 <h2>Why try coding</h2>
 <p> Why you should try coding? Many people that want to learn coding is for the pay of coding jobs that is about $34,000 and $57,000 a year and between $16-29 per hour based on location, experience and certification. Often people learn coding as a hobby coding helps with problem solving in real life. People don’t have to be a wiz at math and science to be able to code that is why alot of people try coding. Many coding games and apps today engage the minds and curiosity of people and help teach basic coding skills, while they are helping grow creativity of  minds of those who enjoying writing, drawing, and reading</p>
-<h3>How much do we know?</h3> 
-<p>  I did a series of test (10 tests) with 20 questions each test in website called <a href="http://www.pskills.org/ ">Programming Skills </a> and the result are in the table below, the average of our knowledge is 59% correct. Even if we know the basics of coding we have a lot to learn. 
+<h3>where did we learn coding?</h3>
+<p>We wanted to learn how to code and we found a website called <a href="https://www.codecademy.com/ ">Codecadamy</a> where it goes by lesson and units. It is divided (the page) into 3 parts. To the right it has the example of the website. In the center.</p>
+
 <img src="http://www.lifelivedhere.com/wp-content/uploads/2015/04/Site-Example-1024x843.png" height="500" width="1000">
+
+<h4>How much do we know?</h4> 
+<p>  I did a series of test (10 tests) with 20 questions each test in website called <a href="http://www.pskills.org/ ">Programming Skills </a> and the result are in the table below, the average of our knowledge is 59% correct. Even if we know the basics of coding we have a lot to learn. 
 
 <table cellspacing="0" cellpadding="0" border="1">
 <tr>
