@@ -5,7 +5,7 @@
  <title>Creating Website using Coding</title>
 
 </head>
-<body>
+<body background: lightblue>
 <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQUNbEmLECIix1hpqxY6SUpbxE9FjD3ZS08Yc7Jg35t9c72efTHpg" height="500" width="900">
 <h1>What is coding</h1> 
 <p>A code is a type of words, numbers or some other symbols used to represent a text of the purpose of classification and/or identification</p>
