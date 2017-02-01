@@ -21,7 +21,7 @@
 <p>We wanted to learn how to code and we found a website called <a href="https://www.codecademy.com/ ">Codecadamy</a> where it goes by lesson and those lessons are divided in units. It is divided (the page) into 3 parts. To the right it has the example of the website (what your coding). In the center you have the codes it usually tells you what you'll be doing in the rest of the lesson, and to the left it gives you the actual lesson it explains what is the attribute, etc. and how you add it to a file and why add it. Then it give you the instructions of where you should place the attribute.</p>
 <img src="http://www.lifelivedhere.com/wp-content/uploads/2015/04/Site-Example-1024x843.png" height="500" width="1000">
 <h4>How much do we know?</h4> 
-<p>  I did a series of test (10 tests) with 20 questions each test in website called <a href="http://www.pskills.org/ ">Programming Skills </a> and the result are in the table below, the average of our knowledge is 59% correct. Even if we know the basics of coding we have a lot to learn, we are barely at 42% in our complete lesson in html.<b>What does html mean?</b> Html means Hypertext Markup Language. The ati
+<p>  I did a series of test (10 tests) with 20 questions each test in website called <a href="http://www.pskills.org/ ">Programming Skills </a> and the result are in the table below, the average of our knowledge is 59% correct. Even if we know the basics of coding we have a lot to learn, we are barely at 42% in our complete lesson in html.<b>What does html mean?</b> Html means Hypertext Markup Language.
 
 <table cellspacing="0" cellpadding="0" border="1">
 <tr>
@@ -55,4 +55,5 @@
    <li>We can actually study this and get a master's degree, etc.</li>
    <li>It is fun and it has kept us busy.</li>
    <li>We had learned not only coding but lots of other stuff that might help us in the future.</li>
-   <li>We have never tried nothing like coding and we wanted to learn the basics, etc.</li>
+   <li>We have never tried nothing like coding and we wanted to learn the basics, etc.</li> 
+   <li>It is fun to learn what we use on a day to day bases</li> 
