@@ -49,7 +49,7 @@
   <td width="100" align="center">55%</td>
   </tr>
 </table>
-<h5>Why did we pick this project?</h5>
+<h5><b>Why did we pick this project?</b></h5>
 <ol>
    <li>We thought it was a challenge to try something knew and more advanced.</li>
    <li>We can actually study this and get a master's degree, etc.</li>
