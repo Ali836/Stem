@@ -58,17 +58,17 @@
    <li>We have never tried nothing like coding and we wanted to learn the basics, etc.</li> 
    <li>It is fun to learn what we use on a day to day bases</li> 
    <p><b> Why was this a challenge?</b> I guess that the challenge of this project is the speed of the rate that we are learning from and how can we use a simple language to create great amazing things.</p>
-   <h6>Hypothesis</h6>
+   <h6><b>Hypothesis</b></h6>
    <p> If we study and complete more lessons in <a href="https://www.codecademy.com/ ">Codecadamy</a> ,then our test scores will go up, because we will n=know and understand more of the basics.</p>
- <h7>Variables</h7>  
+ <h7><b>Variables</b></h7>  
  <p>Our variables are very different from the rest, because we didn't really have material and things that we change. So we switched it up a little</p>
 <ul>
-<li><b>Independent Variable:</b>
-<li><b>Dependent Variable:</b>
-<li><b>Controlled Variabble:</b>
+<li><b>Independent Variable:</b>How many lessons we complete.</li>
+<li><b>Dependent Variable:</b>The amount of answers correct or percentage.</li>
+<li><b>Controlled Variabble:</b>The same number of questions of test, the same difficulty of the tests,and the same website used.
 </ul>
 
-<h8>Constraints/Criteria</h8>
+<h8><b>Constraints/Criteria</b></h8>
 <ul>
 <li>At first we didn't know how to code the basics or anything.</li>
 <li>We didn't know where we could learn for free or for a cheap price.</li>
@@ -76,7 +76,7 @@
 <li>When we had the idea of some of the basics, we didn't know where to go to start a html file.</li>
 <li>Our project was different from the others, like the variables what did we change in our project.</li>
 </ul>
-<h9>Solutions</h9>
+<h9><b>Solutions</b></h9>
 <ul>
 <li>We found <a href="https://www.codecademy.com/ ">Codecadamy</a> to solve the fact that we needed somewhere to learn.</li>
 <li>
