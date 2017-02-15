@@ -59,7 +59,7 @@
    <li>It is fun to learn what we use on a day to day bases</li> 
    <p><b> Why was this a challenge?</b> I guess that the challenge of this project is the speed of the rate that we are learning from and how can we use a simple language to create great amazing things.</p>
    <h6>Hypothesis</h6>
-   <p> If we study and complete more lessons in <a href="https://www.codecademy.com/ ">Codecadamy</a> ,then our test scores will go up, because we will n=know and understand more of the basics.
+   <p> If we study and complete more lessons in <a href="https://www.codecademy.com/ ">Codecadamy</a> ,then our test scores will go up, because we will n=know and understand more of the basics.</p>
  <h7>Variables</h7>  
  <p>Our variables are very different from the rest, because we didn't really have material and things that we change. So we switched it up a little</p>
 <ul>
