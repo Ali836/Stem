@@ -57,7 +57,8 @@
    <li>We had learned not only coding but lots of other stuff that might help us in the future.</li>
    <li>We have never tried nothing like coding and we wanted to learn the basics, etc.</li> 
    <li>It is fun to learn what we use on a day to day bases</li> 
-   <p><b> Why was this a challenge?</b> I guess that the challenge of this project is the speed of the rate that we are learning from and how can we use a simple language to create great amazing things.</p>
+   <p><b> Why was this a challenge?</b> I guess that the challenge of this project is the speed of the rate that we are learning from  
+   and how can we use a simple language to create great amazing things.</p>
    <h6><b>Hypothesis</b></h6>
    <p> If we study and complete more lessons in <a href="https://www.codecademy.com/ ">Codecadamy</a> ,then our test scores will go up, because we will n=know and understand more of the basics.</p>
  <h7><b>Variables</b></h7>  
@@ -65,7 +66,7 @@
 <ul>
 <li><b>Independent Variable:</b>How many lessons we complete.</li>
 <li><b>Dependent Variable:</b>The amount of answers correct or percentage.</li>
-<li><b>Controlled Variabble:</b>The same number of questions of test, the same difficulty of the tests,and the same website used.
+<li><b>Controlled Variable:</b>The same number of questions of test, the same difficulty of the tests,and the same website used.
 </ul>
 
 <h8><b>Constraints/Criteria</b></h8>
@@ -79,5 +80,5 @@
 <h9><b>Solutions</b></h9>
 <ul>
 <li>We found <a href="https://www.codecademy.com/ ">Codecadamy</a> to solve the fact that we needed somewhere to learn.</li>
-<li>
+<li>We went to Mr.Kennen and he gave us the idea of having test tobe our variables, etc.
 </ul>
