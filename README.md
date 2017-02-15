@@ -59,12 +59,24 @@
    <li>It is fun to learn what we use on a day to day bases</li> 
    <p><b> Why was this a challenge?</b> I guess that the challenge of this project is the speed of the rate that we are learning from and how can we use a simple language to create great amazing things.</p>
    <h6>Hypothesis</h6>
-   <p> If w
+   <p> If we study and complete more lessons in <a href="https://www.codecademy.com/ ">Codecadamy</a> ,then our test scores will go up, because we will n=know and understand more of the basics.
  <h7>Variables</h7>
    Our variables are very different from the rest, because we didn't really have material and things that we change. So we switched it up a little.
 <ul>
 <li><b>Independent Variable:</b>
 <li><b>Dependent Variable:</b>
 <li><b>Controlled Variabble:</b>
+</ul>
 <h8>Constraints/Criteria</h8>
+<ul>
+<li>At first we didn't know how to code the basics or anything.</li>
+<li>We didn't know where we could learn for free or for a cheap price.</li>
+<li>Soon we learn that we couldn't get something wrong or that could change the rest of the codes.</li>
+<li>When we had the idea of some of the basics, we didn't know where to go to start a html file.</li>
+<li>Our project was different from the others, like the variables what did we change in our project.</li>
+</ul>
 <h9>Solutions</h9>
+<ul>
+<li>We found <a href="https://www.codecademy.com/ ">Codecadamy</a> to solve the fact that we needed somewhere to learn.</li>
+<li>
+</ul>
