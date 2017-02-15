@@ -58,3 +58,7 @@
    <li>We have never tried nothing like coding and we wanted to learn the basics, etc.</li> 
    <li>It is fun to learn what we use on a day to day bases</li> 
    <p><b> Why was this a challenge?</b> I guess that the challenge of this project is the speed of the rate that we are learning from and how can we use a simple language to create great amazing things.</p>
+   <h6>Variables</h6>
+   Our variables are very different from the rest, because we didn't really have material and things that we change.
+<ul>
+<li><b>Independent Variable:</b> Was
