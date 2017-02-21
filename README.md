@@ -74,6 +74,7 @@
 <li>At first we didn't know how to code the basics or anything.</li>
 <li>We didn't know where we could learn for free or for a cheap price.</li>
 <li>Soon we learn that we couldn't get something wrong or that could change the rest of the codes.</li>
+
 <li>When we had the idea of some of the basics, we didn't know where to go to start a html file.</li>
 <li>Our project was different from the others, like the variables what did we change in our project.</li>
 </ul>
