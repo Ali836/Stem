@@ -2,7 +2,7 @@
 <html>
 <link>
 <head>
- <title>Creating Website using Coding</title>
+ Creating Website using Coding
 
 </head>
 <body background: lightblue>
